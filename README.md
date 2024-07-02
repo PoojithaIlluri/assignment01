@@ -14,4 +14,4 @@ Prerequisites
 Before running the application, make sure you have the following installed:
 
 Node.js (https://nodejs.org/)
-MySQL Server (https://dev.mysql.com/down
+
